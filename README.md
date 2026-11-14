@@ -25,7 +25,7 @@ I build **AI systems end to end**: retrieval-augmented LLM applications, real-ti
 | 📄 **[AI Resume Analyzer & Job Matcher](https://github.com/yashdhokane/ai_resume_analyzer)** | Semantic CV–job matching with **Sentence Transformers** and chunked embeddings for long documents, plus an ATS-style keyword gap; privacy-first, nothing stored |
 | 🧠 **[AI Text Summarizer](https://github.com/yashdhokane/ai_text_summarizer)** | Abstractive summarization with **BART** (Hugging Face) and map-reduce chunking for documents beyond the model's context window |
 | 🚗 **[Lane Detection System](https://github.com/yashdhokane/lane_assist_system)** | Classical computer-vision pipeline in **OpenCV**: Canny, region-of-interest mask, Hough transform and slope-based lane averaging on dashcam video |
-| 📊 **[ML internship projects](https://github.com/yashdhokane/LGMVIP-DataScience)** | LSTM next-word prediction, classifier comparison, K-Means clustering and large-scale EDA ([also here](https://github.com/yashdhokane/TheSparkFoundation-INTERN)) |
+| 📊 **[ML internship projects](https://github.com/yashdhokane/LGMVIP-DataScience)** | LSTM next-word prediction, classifier comparison and decision trees, plus [linear regression](https://github.com/yashdhokane/TheSparkFoundation-INTERN) |
 
 ## Tech stack
 
